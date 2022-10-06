@@ -1,0 +1,77 @@
+body{
+    background-color: #F8EDE3;
+    margin: 0%;
+}
+.perfume{
+    height: 480px;
+    width: 333px;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+.text{
+    background-color: white;
+    width: 280px;
+    height: 480px;
+    position: absolute;
+    left: 733px;
+    top: 150px;
+    padding-left: 30px;
+    padding-right: 25px;
+
+}
+h2{
+    padding-top: 20px ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    color: #555555;
+    font-size: small;
+    letter-spacing: 5px;
+}
+h1{
+    font-family: 'Fraunces', serif;
+    font-size: 35px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.price1{
+    font-family: 'Fraunces', serif;
+    font-size: xx-large;
+    margin: 0%;
+    color: #116530;
+    font-weight: bolder;
+}
+.price2{
+    text-decoration: line-through;
+    font-family: 'Montserrat', sans-serif;
+}
+.ex{
+    background-color: #116530;
+}
+.btn {
+    background: #116530;
+    background-image: -webkit-linear-gradient(top, #116530, #116530);
+    background-image: -moz-linear-gradient(top, #116530, #116530);
+    background-image: -ms-linear-gradient(top, #116530, #116530);
+    background-image: -o-linear-gradient(top, #116530, #116530);
+    background-image: linear-gradient(to bottom, #116530, #116530);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Georgia;
+    color: white;
+    font-size: 20px;
+    padding: 13px 40px 13px 40px;
+    text-decoration: none;
+    position: absolute;
+    left: 80px;
+
+  }
+  
+.btn:hover{
+    background: #D6CDA4;
+    text-decoration: none;
+  }
